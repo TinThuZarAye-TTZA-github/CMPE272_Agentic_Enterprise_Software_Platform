@@ -16,3 +16,6 @@
      python3 user_service.py
 ### Start the order_service:
      python3 order_service.py
+## Example Requests
+### Create a User 
+     http://localhost:5001/users/1

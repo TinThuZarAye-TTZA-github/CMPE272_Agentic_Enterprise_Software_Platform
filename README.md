@@ -11,3 +11,8 @@
 ## Install Flask
      pip install flask
      pip install requests
+## Running the Service
+### Start the user_service:
+     python3 user_service.py
+### Start the order_service:
+     python3 order_service.py

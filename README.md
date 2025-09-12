@@ -23,6 +23,9 @@
      http://localhost:5001/users/1
 ### Create an Order
      http://localhost:5002/orders
+     
+     <img width="1399" height="646" alt="Screenshot 2025-09-12 at 12 38 59 AM" src="https://github.com/user-attachments/assets/065dafb3-96e5-4b55-aff2-52b184375712" />
+
 ### Get an Order
      http://localhost:5002/orders/1
      

@@ -4,7 +4,7 @@
 ## Create a virtual environment
     - python3 -m venv myenv
 ## Activate the virtual environment
-    ### On Windows:
+### On Windows:
     - myenv/Scripts/activate
-    ### on MasOS/Linux:
+### on MasOS/Linux:
     - source myenv/bin/activate

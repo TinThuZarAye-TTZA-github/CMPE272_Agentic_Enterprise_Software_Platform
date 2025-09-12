@@ -19,3 +19,10 @@
 ## Example Requests
 ### Create a User 
      http://localhost:5001/users/1
+### Get a User
+     http://localhost:5001/users/1
+### Create an Order
+     http://localhost:5002/orders
+### Get an Order
+     http://localhost:5002/orders/1
+     

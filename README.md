@@ -1,6 +1,10 @@
 # Microservices Architecture Assignment
 
 # Environment Setup
-## 1. Create a virtual environment
+## Create a virtual environment
     - python3 -m venv myenv
-
+## Activate the virtual environment
+    ### On Windows:
+    - myenv/Scripts/activate
+    ### on MasOS/Linux:
+    - source myenv/bin/activate

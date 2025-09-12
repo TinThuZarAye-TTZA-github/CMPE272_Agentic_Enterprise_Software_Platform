@@ -8,3 +8,6 @@
      myenv/Scripts/activate
 ### on MasOS/Linux:
      source myenv/bin/activate
+## Install Flask
+     pip install flask
+     pip install requests

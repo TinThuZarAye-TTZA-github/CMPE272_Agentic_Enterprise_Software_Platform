@@ -15,3 +15,14 @@
       - Runtime - choose Python3.x or Node.js
       - Permission : AmazonDynamoDBFullAccess
 - Implement the CURD operations with DynamoDB
+
+## Creating the API Gateway 
+- Go to the AWS Management Concole
+- Navigate to API Gateway
+- Create a new REST API
+      - API name
+- Create Resource
+      - eg. /student
+- Create method PUT/GET/DELETE/UPDATE
+- Deploye API --> stage --> dev
+      - dev/student

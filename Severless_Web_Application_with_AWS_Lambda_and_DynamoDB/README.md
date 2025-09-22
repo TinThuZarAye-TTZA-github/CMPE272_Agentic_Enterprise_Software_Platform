@@ -53,6 +53,5 @@ https://vhr61ozfi9.execute-api.us-east-2.amazonaws.com/dev/student?student_id=1
 ### Delete
 https://vhr61ozfi9.execute-api.us-east-2.amazonaws.com/dev/student?student_id=1
 
-<img width="1123" height="637" alt="Screenshot 2025-09-21 at 6 25 36 PM" src="https://github.com/user-attachments/assets/f12bfbb0-366f-4ff2-b41b-be4b1bbbd0ad" />
-
+<img width="1118" height="725" alt="Screenshot 2025-09-21 at 6 26 38 PM" src="https://github.com/user-attachments/assets/4fcd5571-6122-4aa1-a6ef-8fd605ba4dfc" />
 

@@ -32,13 +32,13 @@
 ### POST 
 https://vhr61ozfi9.execute-api.us-east-2.amazonaws.com/dev/student
 
-<img width="1110" height="671" alt="Screenshot 2025-09-21 at 6 19 00 PM" src="https://github.com/user-attachments/assets/9ae0e9c2-248d-4437-bbf2-8324c7a9f42c" />
+<img width="671" height="300" alt="Screenshot 2025-09-21 at 6 19 00 PM" src="https://github.com/user-attachments/assets/9ae0e9c2-248d-4437-bbf2-8324c7a9f42c" />
 
 
 ### GET
 https://vhr61ozfi9.execute-api.us-east-2.amazonaws.com/dev/student?student_id=1
 
-<img width="1110" height="635" alt="Screenshot 2025-09-21 at 6 21 50 PM" src="https://github.com/user-attachments/assets/17f49586-267f-47d1-aa3e-8aaeb1a33e27" /> 
+<img width="750" height="635" alt="Screenshot 2025-09-21 at 6 21 50 PM" src="https://github.com/user-attachments/assets/17f49586-267f-47d1-aa3e-8aaeb1a33e27" /> 
 
 ### GET ALL
 https://vhr61ozfi9.execute-api.us-east-2.amazonaws.com/dev/student

@@ -7,3 +7,11 @@
     - Table name
     - Primary Key
 
+## Creating the AWS Lambda function
+- Go to the AWS Management Console
+- Navigate to Lambda
+- Create a new lambda function
+      - function name
+      - Runtime - choose Python3.x or Node.js
+      - Permission : AmazonDynamoDBFullAccess
+- Implement the CURD operations with DynamoDB

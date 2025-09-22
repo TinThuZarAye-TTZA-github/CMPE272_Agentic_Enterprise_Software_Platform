@@ -27,7 +27,7 @@
 - Deploye API --> stage --> dev
       - dev/student
 
-## API
+## API for CURD
 
 ### POST 
 https://vhr61ozfi9.execute-api.us-east-2.amazonaws.com/dev/student

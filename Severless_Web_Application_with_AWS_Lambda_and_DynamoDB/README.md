@@ -43,15 +43,15 @@ https://vhr61ozfi9.execute-api.us-east-2.amazonaws.com/dev/student?student_id=1
 ### GET ALL
 https://vhr61ozfi9.execute-api.us-east-2.amazonaws.com/dev/student
 
-<img width="1115" height="690" alt="Screenshot 2025-09-21 at 6 23 53 PM" src="https://github.com/user-attachments/assets/b2596cb8-81f9-40de-b232-c50b5ffb46c3" />
+<img width="750" height="635" alt="Screenshot 2025-09-21 at 6 23 53 PM" src="https://github.com/user-attachments/assets/b2596cb8-81f9-40de-b232-c50b5ffb46c3" />
 
 ### Update
 https://vhr61ozfi9.execute-api.us-east-2.amazonaws.com/dev/student?student_id=1
 
-<img width="1133" height="655" alt="Screenshot 2025-09-21 at 6 24 27 PM" src="https://github.com/user-attachments/assets/f89b7165-d4ee-4ea8-b1f9-ed1e6aeeb6f5" />
+<img width="750" height="635" alt="Screenshot 2025-09-21 at 6 24 27 PM" src="https://github.com/user-attachments/assets/f89b7165-d4ee-4ea8-b1f9-ed1e6aeeb6f5" />
 
 ### Delete
 https://vhr61ozfi9.execute-api.us-east-2.amazonaws.com/dev/student?student_id=1
 
-<img width="1118" height="725" alt="Screenshot 2025-09-21 at 6 26 38 PM" src="https://github.com/user-attachments/assets/4fcd5571-6122-4aa1-a6ef-8fd605ba4dfc" />
+<img width="750" height="635" alt="Screenshot 2025-09-21 at 6 26 38 PM" src="https://github.com/user-attachments/assets/4fcd5571-6122-4aa1-a6ef-8fd605ba4dfc" />
 
